@@ -1,0 +1,11 @@
+[
+  {
+    "notebook": "08_training_optimization.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 10.06
+  }
+]

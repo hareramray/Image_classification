@@ -1,0 +1,29 @@
+[
+  {
+    "notebook": "07_custom_image_dataset.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 18.5
+  },
+  {
+    "notebook": "08_training_optimization.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 15.06
+  },
+  {
+    "notebook": "09_explainability.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 10,
+    "seconds": 15.21
+  }
+]

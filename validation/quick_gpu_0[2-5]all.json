@@ -1,0 +1,38 @@
+[
+  {
+    "notebook": "02_linear_classifier.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 12,
+    "seconds": 17.5
+  },
+  {
+    "notebook": "03_neural_networks.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 13,
+    "seconds": 24.04
+  },
+  {
+    "notebook": "04_convolutional_networks.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 14,
+    "seconds": 30.37
+  },
+  {
+    "notebook": "05_augmentation_and_evaluation.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 14,
+    "seconds": 39.42
+  }
+]

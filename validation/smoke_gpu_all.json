@@ -1,0 +1,83 @@
+[
+  {
+    "notebook": "00_start_here_and_gpu_setup.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 8,
+    "seconds": 15.74
+  },
+  {
+    "notebook": "01_images_datasets_and_splits.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 35.44
+  },
+  {
+    "notebook": "06_transfer_learning.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "failed",
+    "error": "Traceback (most recent call last):\n  File \"C:\\Users\\Hareram ray\\AI\\Transformer\\scripts\\validate_notebooks.py\", line 52, in main\n    client.execute(env=env)\n    ~~~~~~~~~~~~~~^^^^^^^^^\n  File \"C:\\Users\\Hareram ray\\AppData\\Roaming\\Python\\Python313\\site-packages\\jupyter_core\\utils\\__init__.py\", line 165, in wrapped\n    return loop.run_until_complete(inner)\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^\n  File \"C:\\Users\\Hareram ray\\AppData\\Local\\Python\\pythoncore-3.13-64\\Lib\\asyncio\\base_events.py\", line 726, in run_until_complete\n    return future.result()\n           ~~~~~~~~~~~~~^^\n  File \"C:\\Users\\Hareram ray\\AI\\Transformer\\.venv\\Lib\\site-packages\\nbclient\\client.py\", line 709, in async_execute\n    await self.async_execute_cell(\n        cell, index, execution_count=self.code_cells_executed + 1\n    )\n  File \"C:\\Users\\Hareram ray\\AI\\Transformer\\.venv\\Lib\\site-packages\\nbclient\\client.py\", line 1009, in async_execute_cell\n    raise DeadKernelError(\"Kernel died\") from None\nnbclient.exceptions.DeadKernelError: Kernel died\n",
+    "seconds": 354.91
+  },
+  {
+    "notebook": "07_custom_image_dataset.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 28.34
+  },
+  {
+    "notebook": "08_training_optimization.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 17.25
+  },
+  {
+    "notebook": "09_explainability.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 10,
+    "seconds": 17.27
+  },
+  {
+    "notebook": "10_vision_transformers.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 20.29
+  },
+  {
+    "notebook": "11_robustness_and_calibration.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 12,
+    "seconds": 15.22
+  },
+  {
+    "notebook": "12_deployment_and_capstone.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 21.04
+  }
+]

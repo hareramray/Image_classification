@@ -1,0 +1,29 @@
+[
+  {
+    "notebook": "10_vision_transformers.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 21.42
+  },
+  {
+    "notebook": "11_robustness_and_calibration.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 12,
+    "seconds": 19.25
+  },
+  {
+    "notebook": "12_deployment_and_capstone.ipynb",
+    "mode": "quick",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 21.95
+  }
+]

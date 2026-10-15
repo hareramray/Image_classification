@@ -1,0 +1,11 @@
+[
+  {
+    "notebook": "06_transfer_learning.ipynb",
+    "mode": "smoke",
+    "execution_requested": true,
+    "structure": "passed",
+    "execution": "passed",
+    "output_cells": 11,
+    "seconds": 18.6
+  }
+]

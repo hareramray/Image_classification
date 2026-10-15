@@ -1,0 +1,93 @@
+[
+  {
+    "notebook": "00_start_here_and_gpu_setup.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.06
+  },
+  {
+    "notebook": "01_images_datasets_and_splits.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.0
+  },
+  {
+    "notebook": "02_linear_classifier.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.0
+  },
+  {
+    "notebook": "03_neural_networks.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.01
+  },
+  {
+    "notebook": "04_convolutional_networks.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.01
+  },
+  {
+    "notebook": "05_augmentation_and_evaluation.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.0
+  },
+  {
+    "notebook": "06_transfer_learning.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.01
+  },
+  {
+    "notebook": "07_custom_image_dataset.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.0
+  },
+  {
+    "notebook": "08_training_optimization.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.01
+  },
+  {
+    "notebook": "09_explainability.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.01
+  },
+  {
+    "notebook": "10_vision_transformers.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.01
+  },
+  {
+    "notebook": "11_robustness_and_calibration.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.0
+  },
+  {
+    "notebook": "12_deployment_and_capstone.ipynb",
+    "mode": "smoke",
+    "execution_requested": false,
+    "structure": "passed",
+    "seconds": 0.01
+  }
+]
